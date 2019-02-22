@@ -1,0 +1,52 @@
+#element_rows .col-sm-8
+{
+	border: solid 1px black;
+	height: 200px;
+}
+#element_rows .col-sm-4
+{
+	border: solid 1px black;
+	height: 200px;
+}
+#element_rows .col-sm-6
+{
+	border: solid 1px black;
+	height: 200px;
+}
+#element_rows .col-sm-9
+{
+	border: solid 1px black;
+	height: 200px;
+}
+#element_rows .col-sm-3
+{
+	border: solid 1px black;
+	height: 200px;
+}
+#element_rows .col-sm-12
+{
+	border: solid 1px black;
+	height: 200px;
+	overflow: hidden;
+}
+#element_rows
+{
+/*	margin-top: 50px;
+*/}
+.widget_selection
+{
+	border: solid 1px gray;
+	padding: 5px;
+	margin: 0 auto;
+	margin-top: 50px;
+	text-align: center;
+	display: inline-block;
+}
+.cg-flex div
+{
+	display: none; !important
+}
+.single_chart_controller
+{
+	float: right;
+}
